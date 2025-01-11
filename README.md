@@ -31,25 +31,7 @@ Getting Started
 
 To run the project locally, follow these steps:
 
-    Clone the Repository:
-
-    You need to clone the repository to your local machine. Use the following command in your terminal:
-
-git clone https://github.com/your-username/e-commerce-app.git
-
-Replace your-username with your GitHub username.
-
-Navigate into the Project Directory:
-
-cd ecommerce-app
-
-Install the Dependencies:
-
-Make sure you have Node.js and npm installed. If not, download and install Node.js from here.
-
-Run the following command to install all the required dependencies:
-
-    npm install
+    
 
 Cloning the Repository
 
